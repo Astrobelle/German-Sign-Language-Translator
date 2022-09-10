@@ -2,6 +2,7 @@
 TechLabs Düsseldorf - AI Track Summer 2022
 
 Annabel Rolofs, Iffat Ilyas
+
 Mentor: Nikolai Arras
 
 Initially, we aimed to build a German Sign Language Translator that could be used in medical environments.
