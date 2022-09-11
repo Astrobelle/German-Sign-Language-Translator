@@ -1,9 +1,5 @@
 # German-Sign-Language-Translator
-TechLabs Düsseldorf - AI Track Summer 2022
-
-Annabel Rolofs, Iffat Ilyas
-
-Mentor: Nikolai Arras
+TechLabs Düsseldorf - AI Track Summer 2022 - Group 1
 
 Initially, we aimed to build a German Sign Language Translator that could be used in medical environments.
 During the project work, it became apparent the preliminary goal was too extensive & could not be realized in the given time frame.
